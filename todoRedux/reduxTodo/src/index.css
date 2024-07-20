@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Add the following CSS styles to your CSS file or styles */
+
+.we{
+    background-color: rgba(29, 35, 50, 0.459);
+}
+
+
